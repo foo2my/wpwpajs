@@ -2,6 +2,6 @@
 
 ## Contents
 
-№ | Name | Description| Link|
-|---|--------|------------------------| --------------|
-|1 | HTML/CSS/Bootstrap  | Create a site search for anything in Google. | [Project 1](https://foo2my.github.io/wpwpajs/project1/index.html) |
+№ | Name | Description | Link|
+|---|--------|------------------------| --------------| 
+| 1 | HTML/CSS/Bootstrap | Create a site search for anything in Google. | [Project 1](https://foo2my.github.io/wpwpajs/project1/index.html) |
